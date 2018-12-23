@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "fr.fullworkplace",
+    "packageFolder": "fr/fullworkplace",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "MTE2ZWI0NTU1M2Y4YWIwODRiZGMxYmI5YWEzODc2OTkyZGQ0NTFjYzhlNDdkNzRiNTZhMmYzZjU5MmY4N2E0MWE3OTY0YzkxZTAzNjNhM2Y4MDZlNjQ2MmQyYWU1MzQxM2NlZWVjODczZWQ4Y2ZhZDBiODc1ZWIwMTcxN2JhNTI=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "aleks24000",
+  "repository-name": "jhipster-sample-application"
+}
